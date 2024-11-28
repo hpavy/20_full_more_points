@@ -11,7 +11,7 @@ folder_result_name = "1_first_try"  # name of the result folder
 # Uniquement si nouveau modèle
 
 hyper_param_init = {
-    "nb_epoch": 1000,  # epoch number
+    "nb_epoch": 10000,  # epoch number
     "save_rate": 50,  # rate to save
     "weight_data": 1,
     "weight_pde": 1,
